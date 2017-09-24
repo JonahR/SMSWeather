@@ -20,7 +20,9 @@ Hello Welcom to SMS Weather. There are a few steps you need to do to get this ap
 
 10. Install python on machine
 
-11. Install ngrok on machine
+11. Install pyowm on machine 'pip install pyowm'
+
+11. Install ngrok on machine 'brew cask install ngrok'
 
 12. Go to SMSWeather folder in Command Line and run 'recieve_sms.py'
 
